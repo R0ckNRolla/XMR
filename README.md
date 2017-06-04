@@ -1,7 +1,7 @@
 # Danilo BGRS Oficial
 
 Lembramos de apertar 
-- ctrl + alt + D / para sair da sessão screen / 
+- ctrl + alt + D / para sair da sessão screen assim que aparecer letras azul ( que mostra que funcionou )
 # nao da dar reboot na VPS
 # Tutorial Para Instalação
   Usar o segunte comando para instalar:
